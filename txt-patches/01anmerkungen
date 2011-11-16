@@ -1,0 +1,16 @@
+--- klein-utf8.txt~	2011-11-16 12:30:56.000000000 +0100
++++ klein-utf8.txt	2011-11-16 12:33:23.000000000 +0100
+@@ -1725,3 +1725,13 @@
+ 
+ [^39]: Durch Betrachtung der linearen Transformationen von f in sich
+     selbst, vergl. Math. Ann, IV. p. 352 [22]
++
++
++Anmerkungen zur Transkription
++-----------------------------
++
++Wir verwendeten ABBYY Mac für die OCR. Pandoc konvertierte nach plain text und HTML.
++
++Die Rechtschreibung wurde belassen (Ausnahmen: Maß/Mass, Genitiv-Apostroph), kleinere Fehler ausgebessert. Die Einzelnachweise wurden nachrecherchiert und, wo vorhanden, mit URL versehen und als bibtex-Datenbank verarbeitet.
++
++Der markdown-Quelltext, die bibtex-Datenbank und alle anderen Hilfsdateien einschließlich der ursprünglichen Seitenbilder befinden sich auf github.com/rwst/book-klein-erlangen. Dort können Fehler gemeldet und gepatcht werden. R.S.

@@ -1,0 +1,15 @@
+.DS_Store
+*.pdf
+*.tei
+*.tex
+*~
+*.epub
+*.mods
+*.ps
+*.txt
+*.zip
+OCR/*
+t
+t.*
+*.rej
+*.orig

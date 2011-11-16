@@ -1,0 +1,14 @@
+--- klein-untidy.html~	2011-11-16 11:16:14.000000000 +0100
++++ klein-untidy.html	2011-11-16 11:17:56.000000000 +0100
+@@ -18,6 +18,11 @@
+ <h4 class="publisher">Verlag von Andreas Deichert</h4>
+ </div>
+ </center>
++<center>
++<div class="figure">
++<img src="images/cover.png" width="50%" alt="Cover" /><p class="caption"></p>
++</div>
++</center>
+ <div id="TOC">
+ <ul>
+ <li><a href="#gruppen-von-r.umlichen-transformationen.-hauptgruppe.-aufstellung-eines-allgemeinen-problems.">§.1. Gruppen von räumlichen Transformationen. Hauptgruppe. Aufstellung eines allgemeinen Problems.</a></li>

@@ -1,0 +1,16 @@
+--- klein-untidy.html~	2011-11-16 11:02:14.000000000 +0100
++++ klein-untidy.html	2011-11-16 11:11:04.000000000 +0100
+@@ -285,5 +285,13 @@
+ <li id="fn39"><p>Durch Betrachtung der linearen Transformationen von <span class="math"><em>f</em></span> in sich selbst, vergl. Math. Ann, IV. p. 352 [22] <a href="#fnref39" class="footnoteBackLink">↩</a></p></li>
+ </ol>
+ </div>
++<h1>Anmerkungen zur Transkription</h1>
++<p>Wir verwendeten ABBYY Mac für die OCR. Pandoc konvertierte nach
++plain text und HTML.</p>
++<p>Die Rechtschreibung wurde belassen (Ausnahmen: Maß/Mass,
++Genitiv-Apostroph), kleinere Fehler ausgebessert. Die Einzelnachweise wurden nachrecherchiert und, wo vorhanden, mit URL versehen und als bibtex-Datenbank verarbeitet.</p>
++<p>Der markdown-Quelltext, die bibtex-Datenbank und alle anderen Hilfsdateien einschließlich der ursprünglichen Seitenbilder befinden
++sich auf github.com/rwst/book-klein-erlangen. Dort können Fehler
++gemeldet und gepatcht werden. R.S.</p>
+ </body>
+ </html>

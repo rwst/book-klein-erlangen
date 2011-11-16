@@ -1,0 +1,14 @@
+--- klein-utf8.txt~	2011-11-16 12:28:06.000000000 +0100
++++ klein-utf8.txt	2011-11-16 12:30:56.000000000 +0100
+@@ -1,6 +1,9 @@
+ Vergleichende Betrachtungen über neuere geometrische Forschungen
+-Felix Klein
+-1872
++                            Felix Klein
++                               1872
++
++                             Erlangen
++                     Verlag von Andreas Deichert
+ 
+ Unter den Leistungen der letzten fünfzig Jahre auf dem Gebiete der
+ Geometrie nimmt die Ausbildung der projectivischen[^1] Geometrie die

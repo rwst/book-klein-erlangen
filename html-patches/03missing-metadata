@@ -1,0 +1,18 @@
+--- klein-untidy.html~	2011-11-16 11:11:04.000000000 +0100
++++ klein-untidy.html	2011-11-16 11:16:14.000000000 +0100
+@@ -9,11 +9,15 @@
+   <title>Vergleichende Betrachtungen über neuere geometrische Forschungen</title>
+ </head>
+ <body>
++<center>
+ <div id="header">
+ <h1 class="title">Vergleichende Betrachtungen über neuere geometrische Forschungen</h1>
+ <h3 class="author">Felix Klein</h3>
+ <h4 class="date">1872</h4>
++<h4 class="city">Erlangen</h4>
++<h4 class="publisher">Verlag von Andreas Deichert</h4>
+ </div>
++</center>
+ <div id="TOC">
+ <ul>
+ <li><a href="#gruppen-von-r.umlichen-transformationen.-hauptgruppe.-aufstellung-eines-allgemeinen-problems.">§.1. Gruppen von räumlichen Transformationen. Hauptgruppe. Aufstellung eines allgemeinen Problems.</a></li>
